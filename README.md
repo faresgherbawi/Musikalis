@@ -1,5 +1,5 @@
-# Musikalis Webpage
-A Music Is The Shorthand Of Emotion, built using HTML, CSS, and JavaScript.
+# Musikalis Webpage 🎧
+A Music 🎵 Is The Shorthand Of Emotion, built using HTML, CSS, and JavaScript.
 
 
 ### A modern landing page for Food Mart, built using HTML, CSS, and JavaScript.
